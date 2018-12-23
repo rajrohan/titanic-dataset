@@ -3,7 +3,7 @@
 Requirements
 1. Pyhton , jupyter notebook.
 2. Numpy, Pandas, seaborn and sklearn library.
-3. dataset which is available in the repository.
+3. Dataset(titanic.txt), added in the repository.
 
 
 This dataset has passenger information who boarded the Titanic along with other information like survival status, Class, Fare, and other variables. 
