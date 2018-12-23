@@ -31,3 +31,10 @@ rest all presentation is on jupyter python file Titanic_work.ipynb
 The given dataset has entries of 950 peoples.Translated only 42.5% data we have for analysis.
 
 sklearn is used for the machine learning algorithm( Decision tree) with score around 81.05%.
+
+Reference-
+1. Tutorial: Titanic dataset machine learning for Kaggle
+https://corpocrat.com/2014/08/29/tutorial-titanic-dataset-machine-learning-for-kaggle/ 
+ 
+2. Titanic data-science solutions
+https://www.kaggle.com/startupsci/titanic-data-science-solutions/notebook 
