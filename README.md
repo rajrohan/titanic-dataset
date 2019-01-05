@@ -1,7 +1,7 @@
 # titanic-dataset
 
 Requirements
-1. Pyhton , jupyter notebook.
+1. Python , jupyter notebook.
 2. Numpy, Pandas, seaborn and sklearn library.
 3. Dataset(titanic.txt), added in the repository.
 
